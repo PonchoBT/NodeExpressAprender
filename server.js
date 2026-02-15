@@ -203,15 +203,3 @@ R: READ    - GET    /pizzas/:id  - Obtiene una pizza específica
 U: UPDATE  - PUT    /pizzas/:id  - Actualiza una pizza existente
 D: DELETE  - DELETE /pizzas/:id  - Elimina una pizza
 */
-/*
-Ejemplo:
-GET http://localhost:3000/pizzas/1
-
-Response:
-{
-  "id": 1,
-  "name": "Margherita",
-  "toppings": ["salsa de tomate", "queso mozzarella", "albahaca fresca"],
-  "price": 9.99
-}
-*/
