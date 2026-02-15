@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita 🍕",
+    "toppings": [
+      "salsa de tomate",
+      "queso mozzarella",
+      "albahaca fresca"
+    ],
+    "price": 9.99
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni 🍕",
+    "toppings": [
+      "salsa de tomate",
+      "queso mozzarella",
+      "pepperoni"
+    ],
+    "price": 10.99
+  },
+  {
+    "id": 3,
+    "name": "Mexicana 🍕",
+    "toppings": [
+      "salsa de tomate",
+      "queso mozzarella",
+      "jalapeños",
+      "chorizo",
+      "cebolla"
+    ],
+    "price": 12.99
+  },
+  {
+    "id": 4,
+    "name": "Vegetariana 🍕",
+    "toppings": [
+      "salsa de tomate",
+      "queso mozzarella",
+      "pimientos",
+      "champiñones",
+      "aceitunas",
+      "cebolla"
+    ],
+    "price": 11.99
+  }
+]
